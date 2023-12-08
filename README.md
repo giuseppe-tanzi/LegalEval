@@ -6,7 +6,7 @@ Authors:
 - [Flavio Pinzarrone](https://github.com/flaviopinzarrone)
 - [Giuseppe Tanzi](https://github.com/giuseppe-tanzi)
 
-Project work for the "Natural Language Processing" course of the Artificial Intelligence master's degree at University of Bologna. This code in this repository is a devolopment of the first two tasks of the [LegalEval challenge](https://sites.google.com/view/legaleval/home) of [SemEval 2023](https://semeval.github.io/SemEval2023/). <br>
+This code in this repository is a devolopment of the first two tasks of the [LegalEval challenge](https://sites.google.com/view/legaleval/home) of [SemEval 2023](https://semeval.github.io/SemEval2023/). <br>
 
 The LegalEval challenge proposes three tasks, based on Indian Legal documents: 
 - Rhetorical Roles prediction
